@@ -1,0 +1,5 @@
+TODO
+
+- look at model norms and 
+- if diff in norm is large
+
